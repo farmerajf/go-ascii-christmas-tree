@@ -4,7 +4,7 @@
 
 I heard about a fun little coding exercise to draw an ASCII Christmas tree given a hight of `n`. It's interesting because it gets you thinking about how long each line should be, how many spaces are required to pad each line and how big the base of the tree should be.
 
-I wrote an version using Go and added some extra colour in to make it more Christmassy. ☃️
+I wrote a version using Go and added some extra colour in to make it more Christmassy. Try it yourself over the Christmas period. ☃️
 
 <img title="" src="assets/659d427d9e414edba2a55a18ffd007e0ede308e6.png" alt="Screenshot 2022-12-18 at 2.40.14 pm.png" data-align="inline">
 

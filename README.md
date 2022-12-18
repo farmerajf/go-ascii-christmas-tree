@@ -6,6 +6,8 @@ I heard about a fun little coding exercise to draw an ASCII Christmas tree given
 
 I wrote an version using Go and added some extra colour in to make it more Christmassy. ☃️
 
+<img title="" src="assets/659d427d9e414edba2a55a18ffd007e0ede308e6.png" alt="Screenshot 2022-12-18 at 2.40.14 pm.png" data-align="inline">
+
 ## Running the code
 
 ### Prerequisites

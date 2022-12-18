@@ -27,7 +27,7 @@ var (
 func main() {
 	height = flag.Int("height", 10, "The height of the tree")
 	lights = flag.Int("lights", 5, "The spacing for the lights")
-	flash = flag.Bool("flash", false, "Turn of flashing lights")
+	flash = flag.Bool("flash", false, "Turn on flashing lights")
 	flag.Parse()
 
 	fmt.Print(generateTree(*height, *lights, *flash))
